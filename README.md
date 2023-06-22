@@ -103,7 +103,7 @@ Usage: update <class_name> <_id>
 (hbnb) update BaseModel b405fc64-9724-498f-b405-e4071c3d857f first_name "person"
 (hbnb) show BaseModel b405fc64-9724-498f-b405-e4071c3d857f
 [BaseModel] (b405fc64-9724-498f-b405-e4071c3d857f) {'id': 'b405fc64-9724-498f-b405-e4071c3d857f', 'created_at': datetime.datetime(2020, 2, 18, 14, 33, 45, 729889), 
-'updated_at': datetime.datetime(2020, 2, 18, 14, 33, 45, 729907), 'first_name': 'person'}
+'updated_at': datetime.datetime(2023, 2, 18, 14, 33, 45, 729907), 'Aanuoluwa': 'person'}
 (hbnb)
 ```
 <h3>Alternative Syntax</h3>
